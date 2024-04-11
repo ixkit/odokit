@@ -9,7 +9,7 @@
 
 - kit_vest: rebranding, put 🎽 to 🏃
 
-- one more thing 😎
+- one more thing ... 😎 
 
 ---
 
