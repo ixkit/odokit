@@ -1,7 +1,7 @@
 # OdooKit 🔨
 
       
- We build the interesting tools help developing Odoo Application 🚀
+ We build interesting tools help you developing Odoo Application 🚀
 
 
 ### Features
@@ -9,7 +9,7 @@
 
 - kit_vest: rebranding, put 🎽 to 🏃
 
-- 
+- one more thing 😎
 
 ---
 
